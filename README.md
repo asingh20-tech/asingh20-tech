@@ -26,7 +26,8 @@
   <img width="12" />
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U1bXUwcjRic3d1azFsanE5b281dmVlMWs0eWFhMHczd2MxNjV5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" height="50" alt="python logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25obHUzOWxtcW95d3RrazZydXk2Z2doOGFid3RiZXhpemcxczdkOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" height="50" alt="vscode logo"  />
+  <img width="30" />
 </div>
 
 ###
