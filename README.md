@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://artlist.io/stock-footage/clip/computer-coding-developer-software/6392174" alt="Coding animation" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdyc2hzd3Rrb3RseWp4MHA4MjhtdnU0eTZzZGt0ZTQ2OHhrejJ6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding animation" />
 
 ###
