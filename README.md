@@ -1,99 +1,157 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗              ║
+║  ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗             ║
+║  ███████║██║  ██║██║   ██║    ╚████╔╝ ███████║             ║
+║  ██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║             ║
+║  ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║             ║
+║  ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝             ║
+║                                                              ║
+║              R A J  ── F U L L  S T A C K  D E V            ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Aditya+Raj+%F0%9F%91%BE;Full+Stack+Developer+%7C+Code+Breaker;Python+%7C+JS+%7C+React+%7C+SQL+%7C+C;Building+stuff+that+works+(mostly)...;git+commit+-m+%22fix%3A+finally%22)](https://git.io/typing-svg)
+
 </div>
 
-<img align="right" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tpMG11Zno3OHd2aDkxdjM0cmJzNml4eThna2pxdm85MXhxYTZpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMmCTZsADKuIWQ/giphy.gif" />
+---
 
-### 👋 Hey there! I'm Aditya
+```bash
+┌──(aditya@dev)-[~]
+└─$ whoami
+```
+```
+> Aditya Raj
+> Role      : Full Stack Developer
+> Location  : India 🇮🇳
+> Status    : Always coding...
+> Coffee    : ████████████ 100%
+> Sleep     : ██░░░░░░░░░░ 20%
+```
 
-```python
-developer = {
-    "name": "Aditya Raj",
-    "role": "Full Stack Developer",
-    "loves": ["clean code", "coffee ☕", "open source"],
-    "currently_learning": "everything ",
-    "fun_fact": "I debug with console.log and I'm not ashamed"
+```bash
+┌──(aditya@dev)-[~]
+└─$ cat about.txt
+```
+```
+I write code that turns caffeine into features.
+Currently learning everything. Breaking things. Fixing things.
+Open source enthusiast | Bug whisperer | Terminal addict
+```
+
+---
+
+```bash
+┌──(aditya@dev)-[~]
+└─$ ls ./skills/
+```
+
+```
+📁 languages/
+├── javascript.js     ██████████ 90%
+├── typescript.ts     ████████░░ 80%
+├── python.py         █████████░ 85%
+├── c_lang.c          ███████░░░ 70%
+├── sql.sql           ████████░░ 78%
+└── clojure.clj       █████░░░░░ 50%
+
+📁 frontend/
+├── react.jsx         █████████░ 88%
+├── html5.html        ██████████ 95%
+└── css3.css          █████████░ 85%
+
+📁 tools/
+├── git               █████████░ 88%
+├── vscode            ██████████ 99%
+└── linux_terminal    ████████░░ 80%
+```
+
+---
+
+```bash
+┌──(aditya@dev)-[~]
+└─$ cat tech_stack.json
+```
+
+```json
+{
+  "languages": ["JavaScript", "TypeScript", "Python", "C", "SQL", "Clojure"],
+  "frontend":  ["React", "HTML5", "CSS3"],
+  "databases": ["MySQL", "PostgreSQL", "SQLite"],
+  "tools":     ["Git", "VS Code", "Linux", "Bash"],
+  "currently_learning": "more stuff every day 🚀"
 }
 ```
 
-<br clear="both"/>
-
 ---
 
-## 🛠️ Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
-  &nbsp;&nbsp;
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3U1bXUwcjRic3d1azFsanE5b281dmVlMWs0eWFhMHczd2MxNjV5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" height="50" alt="Python" title="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b25obHUzOWxtcW95d3RrazZydXk2Z2doOGFid3RiZXhpemcxczdkOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" height="50" alt="VS Code" title="VS Code"/>
-</div>
-
----
-
-## 📊 GitHub Stats
+```bash
+┌──(aditya@dev)-[~]
+└─$ ./github_stats.sh
+```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaraj&show_icons=true&theme=matrix&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=00ff41" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj&layout=compact&theme=matrix&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00ff41" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adityaraj&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=adityaraj&theme=matrix&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" height="165"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+```bash
+┌──(aditya@dev)-[~]
+└─$ cat connect.sh
+```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityaraj/adityaraj/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityaraj/adityaraj/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adityaraj/adityaraj/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🌐 Connect With Me
+```
+[*] Scanning for social links...
+[+] Found: LinkedIn  →  https://www.linkedin.com/in/aditya-raj-singh-14689a351/
+[+] Found: Instagram →  (your handle)
+[+] Found: Discord   →  (your tag)
+[+] Found: Gmail     →  (your email)
+[*] All links reachable ✓
+```
 
 <div align="left">
   <a href__="#">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=00ff41&logoColor=black&style=for-the-badge" height="30"/>
   </a>
-  &nbsp;
   <a href__="#">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=00ff41&logoColor=black&style=for-the-badge" height="30"/>
   </a>
-  &nbsp;
   <a href__="#">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=00ff41&logoColor=black&style=for-the-badge" height="30"/>
   </a>
-  &nbsp;
   <a href__="https://www.linkedin.com/in/aditya-raj-singh-14689a351/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=00ff41&logoColor=black&style=for-the-badge" height="30"/>
   </a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdyc2hzd3Rrb3RseWp4MHA4MjhtdnU0eTZzZGt0ZTQ2OHhrejJ6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Coding"/>
-  
-  <br/>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=adityaraj&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-</div>
+```bash
+┌──(aditya@dev)-[~]
+└─$ echo "Thanks for visiting!"
+```
+```
+> "Any fool can write code that a computer can understand.
+>  Good programmers write code that humans can understand."
+>                                        — Martin Fowler
+
+[session terminated]
+█
+```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=adityaraj&color=00ff41&style=for-the-badge&label=VISITORS)
+
 </div>
